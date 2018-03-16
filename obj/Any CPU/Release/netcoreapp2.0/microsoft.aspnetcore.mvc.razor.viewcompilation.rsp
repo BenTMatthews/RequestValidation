@@ -1,0 +1,5 @@
+C:\projects\RequestValidation\RequestValidation
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=RequestValidation
+--content-root=C:\projects\RequestValidation\RequestValidation
+--file=C:\projects\RequestValidation\RequestValidation\Views\Home\Index.cshtml

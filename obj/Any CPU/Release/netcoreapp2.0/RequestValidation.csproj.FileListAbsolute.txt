@@ -1,0 +1,11 @@
+C:\projects\RequestValidation\RequestValidation\bin\Any CPU\Release\netcoreapp2.0\RequestValidation.deps.json
+C:\projects\RequestValidation\RequestValidation\bin\Any CPU\Release\netcoreapp2.0\RequestValidation.runtimeconfig.json
+C:\projects\RequestValidation\RequestValidation\bin\Any CPU\Release\netcoreapp2.0\RequestValidation.runtimeconfig.dev.json
+C:\projects\RequestValidation\RequestValidation\bin\Any CPU\Release\netcoreapp2.0\RequestValidation.dll
+C:\projects\RequestValidation\RequestValidation\bin\Any CPU\Release\netcoreapp2.0\RequestValidation.pdb
+C:\projects\RequestValidation\RequestValidation\obj\Any CPU\Release\netcoreapp2.0\RequestValidation.csprojResolveAssemblyReference.cache
+C:\projects\RequestValidation\RequestValidation\obj\Any CPU\Release\netcoreapp2.0\RequestValidation.csproj.CoreCompileInputs.cache
+C:\projects\RequestValidation\RequestValidation\obj\Any CPU\Release\netcoreapp2.0\RequestValidation.AssemblyInfoInputs.cache
+C:\projects\RequestValidation\RequestValidation\obj\Any CPU\Release\netcoreapp2.0\RequestValidation.AssemblyInfo.cs
+C:\projects\RequestValidation\RequestValidation\obj\Any CPU\Release\netcoreapp2.0\RequestValidation.dll
+C:\projects\RequestValidation\RequestValidation\obj\Any CPU\Release\netcoreapp2.0\RequestValidation.pdb
