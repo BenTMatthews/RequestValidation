@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Request Validation Example</title>
+</head>
+<body>
+
+    <h2>Request Validation Example</h2>
+
+    <div>
+        <ul>
+            <li>Generate the key</li>
+            <li>Encrypt the data using arbitrary peices of key as salt</li>
+            <li>Send the request with full key and encrypted data</li>
+            <li>Decrypt data, remove salt, and validate input</li>
+        </ul>
+    </div>
+
+    <div>
+        <textarea rows="10" cols="50" placeholder="Data to encrypt" id="rawDataTxt"></textarea>
+    </div>
+    <br />
+    <div>
+        <input type="button" value="Encrypt" id="encryptBtn" />
+    </div>
+    <br />
+    <div>
+        Encrypted Data: <br />
+        <textarea rows="6" cols="50" id="encryptedDataTxt" disabled></textarea>
+    </div>
+    <br />
+    <div>
+        Key: <br />
+        <input type="text" id="keyDataTxt" disabled />
+    </div>
+
+    <hr />
+
+    <div>
+        Computed URL: <br />
+        <input type="text" id="computedUrlTxt" style="width:450px" />
+    </div>
+    <br />
+    <div>
+        <input type="button" value="Decrypt" id="decryptBtn" />
+    </div>
+    <br />
+    <div>
+        <textarea rows="10" cols="50" id="decryptDataTxt" disabled></textarea>
+    </div>
+
+    <script src="http://code.jquery.com/jquery-3.2.1.min.js"
+            integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+            crossorigin="anonymous">
+    </script>
+    <script src="~/Script/script.js"></script>
+</body>
+
+</html>
+
